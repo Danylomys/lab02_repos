@@ -4,6 +4,8 @@
 // Лінійні програми.
 // Варіант 17
 
+
+
 #include <iostream>
 #include <cmath>
 
